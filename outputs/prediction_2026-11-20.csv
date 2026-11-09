@@ -1,0 +1,2 @@
+location,target_date,predicted_high_f,predicted_high_c,predicted_low_f,predicted_low_c,holdout_mae_high_f,holdout_mae_low_f,model,note
+"Albuquerque, New Mexico",2026-11-20,56.9,13.9,34.7,1.5,6.5,5.15,RandomForestRegressor baseline,"Educational estimate, not an official forecast"
